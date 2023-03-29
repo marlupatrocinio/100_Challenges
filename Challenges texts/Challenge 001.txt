@@ -1,0 +1,9 @@
+Challenge 1:
+Write a Java program to print the Fibonacci series up to n terms, where n is provided by the user. The Fibonacci series is a sequence of numbers where each number is the sum of the two preceding ones, starting from 0 and 1.
+
+Tips:
+
+Study loops in Java (for, while, do-while) to iterate over the series and print the numbers.
+You can use an array to store the Fibonacci series.
+If you're unfamiliar with the Fibonacci series, try writing out the first few terms by hand to see the pattern.
+You may want to include error handling for invalid user input.
