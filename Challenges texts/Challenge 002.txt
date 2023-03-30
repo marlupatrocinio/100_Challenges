@@ -1,0 +1,9 @@
+Challenge 2:
+Write a Java program that takes an input string and outputs the reverse of that string. For example, if the input is "hello", the output should be "olleh".
+
+Tips:
+
+You can use the String class in Java to manipulate strings.
+One approach to reversing a string is to create a new empty string and append the characters of the input string in reverse order.
+Alternatively, you can convert the input string into a character array, and then reverse the order of the elements in the array using a loop.
+You may want to consider edge cases such as empty strings or strings with a single character.
