@@ -1,0 +1,14 @@
+Challenge 005:
+Write a program that reads two integers from the user and prints their quotient and remainder. You can assume that the second number is not zero.
+
+Tips:
+
+Break the problem down into smaller parts: Start by breaking the problem down into smaller tasks, such as getting user input, performing the division, and printing the result. Then try to solve each task separately.
+
+Use comments: Add comments to your code to explain what each section does. This will help you keep track of what you're doing and make it easier to debug your code.
+
+Test your code: Make sure you test your code thoroughly to ensure that it works correctly. Try to test your code with different inputs to make sure it can handle all possible cases.
+
+Refactor your code: Once you have a working solution, take a step back and look at your code. Can it be improved? Is there a more efficient way to solve the problem? Refactoring your code can help make it more readable, maintainable, and efficient.
+
+Practice, practice, practice: The more you practice programming, the better you'll become. Keep challenging yourself with new problems and try to write clean, efficient code.
