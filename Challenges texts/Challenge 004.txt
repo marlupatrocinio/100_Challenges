@@ -1,0 +1,9 @@
+Challenge 004
+
+Write a Java program to check if a given number is prime or not. The program should take an integer as input and output whether the number is prime or not.
+
+Tips:
+
+A prime number is a number that is divisible only by 1 and itself.
+One way to check if a number is prime is to check if it is divisible by any number between 2 and the square root of the number (inclusive). 
+If it is not divisible by any of those numbers, then it is prime.
