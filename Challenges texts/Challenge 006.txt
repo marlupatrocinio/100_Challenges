@@ -1,0 +1,12 @@
+Challenge 006:
+Write a program that reads a string from the user and counts the frequency of each character in the string. 
+Ignore whitespace and consider upper and lower case letters to be the same.
+
+Tips to solve the challenge:
+
+Use a loop to iterate over each character in the input string.
+Ignore whitespace characters by skipping them or removing them from the string.
+Convert all characters to lower or upper case to treat them as the same.
+Use a map (such as a HashMap) to store the frequency of each character.
+If the character already exists in the map, increment its count. Otherwise, add it to the map with a count of 1.
+Print the map to display the frequency of each character.
