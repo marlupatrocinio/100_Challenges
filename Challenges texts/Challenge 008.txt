@@ -1,0 +1,20 @@
+Challenge 008:
+Write a program that reads a sentence from the user and determines the average word length in the sentence. 
+The sentence may contain punctuation marks and special characters, but these should not be included in the word length calculation. 
+You can assume that words in the sentence are separated by spaces.
+
+Tips to solve the challenge:
+
+Use the Scanner class to read input from the user. You can use the nextLine() method to read a whole sentence as a String object.
+
+Split the sentence into words using the split() method of the String class, passing a space character as the delimiter. This will give you an array of words.
+
+Iterate through the array of words and calculate the total length of all words, excluding any punctuation marks or special characters.
+You can use the length() method of the String class to get the length of each word.
+
+Keep track of the number of words that are counted for calculating the average word length. You can use a counter variable for this.
+
+Finally, calculate the average word length by dividing the total word length by the number of words counted.
+You can use integer division (/) to get an integer result. If you want a decimal result, you can cast one or both of the operands to double before performing the division.
+
+Print the calculated average word length to the user. You can use the System.out.println() method to display the result.
