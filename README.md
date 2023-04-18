@@ -6,4 +6,4 @@ I am taking on this challenge to improve my Java skills by asking Chat GPT to gi
 
 ## How it works:
 
-I have instructed Chat GPT to provide me with a new Java challenge every day for 100 days. Once I complete the challenge, I will update this repository with my answer to the challenge.
+I have instructed Chat GPT to provide me with 100 Java challenge. Once I complete the challenge, I will update this repository with my answer to the challenge.
