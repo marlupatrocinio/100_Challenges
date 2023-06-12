@@ -10,5 +10,6 @@ I have instructed Chat GPT to provide me with Java challenges. Once I complete t
 
 ## Update:
 
-I had to take a break on the challenge because of time but, i'm trying to get it back.
-Apparently, Chat GPT is starting to run out of variables because there's a lot of times that i need to ask for a different question because it keeps giving me challenges already solved.
+- I had to take a break on the challenge because of time but, i'm trying to get it back.
+
+- Apparently, Chat GPT is starting to run out of variables because there's a lot of times that i need to ask for a different question because it keeps giving me challenges already solved.
